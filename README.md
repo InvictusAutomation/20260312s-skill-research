@@ -110,11 +110,11 @@ Anthropic 官方发布了以下 Claude Skills：
 
 ---
 
-### 3.2 ClowdHub (clawhub.com)
+### 3.2 clawhub (clawhub.com)
 
 #### 平台概述
 
-ClowdHub 是 OpenClaw 生态系统的核心组成部分，提供技能市场（Skills Marketplace）功能。作为一个开放的技能分发平台，ClowdHub 允许开发者分享和分发他们为 Claude Code、OpenClaw 等 AI 编码助手创建的定制化技能。
+clawhub 是 OpenClaw 生态系统的核心组成部分，提供技能市场（Skills Marketplace）功能。作为一个开放的技能分发平台，clawhub 允许开发者分享和分发他们为 Claude Code、OpenClaw 等 AI 编码助手创建的定制化技能。
 
 #### 核心功能
 
@@ -782,7 +782,7 @@ Kimi 是月之暗面（Moonshot AI）推出的 AI 助手，在中文市场具有
 | 平台 | 链接 |
 |------|------|
 | MCP 官方 | https://modelcontextprotocol.io |
-| ClowdHub | https://clawhub.com |
+| clawhub | https://clawhub.com |
 | Kimi | https://kimi.moonshot.cn |
 | MiniMax | https://platform.minimax.io |
 
@@ -806,7 +806,7 @@ Kimi 是月之暗面（Moonshot AI）推出的 AI 助手，在中文市场具有
 /plugin install marketing-skills@claude-code-skills
 ```
 
-### B.2 ClowdHub 安装
+### B.2 clawhub 安装
 
 ```bash
 # 安装技能
